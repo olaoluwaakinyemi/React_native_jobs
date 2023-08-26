@@ -25,5 +25,5 @@ const styles = StyleSheet.create({
     marginTop: SIZES.medium,
   },
 });
-
+//lazy day
 export default styles;
