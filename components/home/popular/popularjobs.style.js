@@ -26,4 +26,5 @@ const styles = StyleSheet.create({
   },
 });
 //lazy day
+//lazy day 2
 export default styles;
